@@ -1,4 +1,4 @@
-
+﻿
 Conceitos, comando e praticas com GIT.
 
     Git é um sistema distribuído de repositório, 
@@ -102,9 +102,3 @@ Trabalhando com o git hub
 4 - Depois digite no git bash o comando git clone e o endereço do github repositorio remoto.
     Exemplo: $ git clone https://github.com/leleomaster/Estudos_Git_e_Github.git githubClone1(esse é o nome da pasta local)       
 
-
-
-
-https://www.youtube.com/watch?v=dRV13jZqhU0&index=3&list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0
-
-Parei na aula 6 no minuto 10
